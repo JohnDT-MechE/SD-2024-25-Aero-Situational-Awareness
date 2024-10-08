@@ -1,5 +1,5 @@
-## Senior Design 2024-25
-# 25014 - Camera for Aerospace Situational Awareness
+# Senior Design 2024-25
+## 25014 - Camera for Aerospace Situational Awareness
 Parker Meggitt is looking to develop a platform to demonstrate new technology in the aerospace camera market. The system will simulate an aircraft with multiple cameras installed, and display the views as a single "Birds eye view". Additionally, the display will highlight objects that are near the aircraft to aid in collision avoidance.
 
 The requirements for the system are:
